@@ -18,6 +18,7 @@
 # 1. Developer (Author / Lập trình viên — Tác giả)
 -	Vai trò: Người trực tiếp viết mã nguồn và khởi tạo/sử dụng tài liệu.
 -	Trách nhiệm chính:
+  
 -Kết nối và quản lý liên kết tài khoản GitHub/Workspace/Repository.
 
 -Yêu cầu AI đọc mã nguồn (File, Module, Repo) để tự động sinh tài liệu bản thảo theo Mẫu (Template).
@@ -31,6 +32,7 @@
 # 2. Staff (Reviewer / Kiểm duyệt viên vòng 1)
 -	Vai trò: Kỹ sư/Kiểm duyệt viên chuyên môn chịu trách nhiệm đánh giá chất lượng tài liệu ở vòng đầu tiên.
 -	Trách nhiệm chính:
+  
 -Quản lý hàng chờ (Review Queue) các tài liệu do AI sinh ra hoặc tự động cập nhật.
 
 -Kiểm tra tính chính xác của tài liệu so với mã nguồn thực tế (Code Diff, Commit, Ticket) và cấu trúc Mẫu chuẩn.
@@ -42,6 +44,7 @@
 # 3. Manager (Approver / Người phê duyệt cuối)
 -	Vai trò: Người quản lý có thẩm quyền quyết định việc xuất bản hoặc lưu lưu trữ tài liệu chính thức.
 -	Trách nhiệm chính:
+  
 -Duyệt các tài liệu đã qua vòng kiểm duyệt của Staff.
 
 -Quyết định xuất bản (Publish) hoặc commit trực tiếp tài liệu vào GitHub Repository.
@@ -55,6 +58,7 @@
 # 4. Technical Lead / Documentation Owner (Trưởng nhóm kỹ thuật / Chủ sở hữu tài liệu)
 -	Vai trò: Người chịu trách nhiệm về chiến lược, chất lượng và chuẩn mực tài liệu của dự án.
 -	Trách nhiệm chính:
+  
 -Quản lý các bộ sưu tập tài liệu và phân quyền sở hữu tài liệu.
 
 -Cấu hình ngưỡng phát hiện trôi tài liệu (Drift Detection Policies) và chính sách tự động cập nhật.
