@@ -70,7 +70,7 @@
 
 -Quản lý cấu hình Workspace, kết nối GitHub App, OAuth2, Webhooks và các dịch vụ bên ngoài (Jira, Slack,...).
 
--Quản trị AI Engine: Cấu hình mô hình LLM, Embedding model, Confidence threshold (ngưỡng tin cậy), Token budget và thiết lập 
+-Quản trị AI Engine: Cấu hình mô hình LLM, Embedding model, Confidence threshold (ngưỡng tin cậy),Token budget và thiết lập 
 Indexing/Retrieval.
 
 -Giám sát các tác vụ xử lý AI (AI processing jobs), đường ống sự kiện (Event pipelines) và xem Audit Logs/System Analytics.
