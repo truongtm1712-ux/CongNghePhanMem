@@ -66,6 +66,7 @@
 # 5. Administrator (Quản trị viên hệ thống)
 -	Vai trò: Quản trị toàn bộ hạ tầng, phân quyền người dùng và tích hợp hệ thống.
 -	Trách nhiệm chính:
+  
 -Quản lý tài khoản, vai trò và phân quyền truy cập (RBAC) cho 5 nhóm tác nhân.
 
 -Quản lý cấu hình Workspace, kết nối GitHub App, OAuth2, Webhooks và các dịch vụ bên ngoài (Jira, Slack,...).
