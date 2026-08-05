@@ -9,7 +9,7 @@ Có 4 bước cơ bản:
 - Cách hiểu: AI sẽ nhảy vào xem đoạn code vừa sửa và so với cuốn sách hướng dẫn hiện tại.
 - Nếu nó thấy code đã đổi (ví dụ: đổi tên hàm, thêm tính năng) mà sách chưa đổi, nó sẽ tính ra một điểm lệch pha (Ví dụ: “Sách cũ mất 80% rồi!”).
 # 3. AI Tự viết bản thảo và Đưa bằng chứng (AI Draft and Evidence)
-- Cách hiểu: AI sẽ tự gõ một bản nháp tài liệu mới. Để không ai nghi ngờ là nó “bịa” ra, AI sẽ chỉ rõ: “Em sửa dòng này trong tài liệu là vì anh” (Đó gọi là Bằng chứng / Grounding Evidence).
+- Cách hiểu: AI sẽ tự gõ một bản nháp tài liệu mới. Để không ai nghi ngờ là nó “bịa” ra, AI sẽ chỉ rõ (Đó gọi là Bằng chứng / Grounding Evidence).
 # 4. Luồng kiểm duyệt và Chặn code lỗi (Pipeline and Gatekeeper)
 Cách hiểu:
 - Bản nháp của AI không được xuất bản ngay.
