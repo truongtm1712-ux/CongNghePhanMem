@@ -3,13 +3,13 @@
 LivingDocs là hệ thống hỗ trợ quản lý và duy trì tài liệu phần mềm bằng trí tuệ nhân tạo. Hệ thống không chỉ phát hiện sự thay đổi của mã nguồn mà còn phản hồi cho người dùng về tình trạng tài liệu, các tài liệu bị ảnh hưởng, đề xuất cập nhật và trạng thái phê duyệt.
 Mỗi khi người dùng thực hiện một thao tác hoặc mã nguồn của hệ thống thay đổi, LivingDocs sẽ xử lý sự kiện tương ứng và trả về kết quả thông qua giao diện web, thông báo, trạng thái workflow hoặc cảnh báo documentation drift.
 Mục tiêu của cơ chế phản hồi là giúp người dùng biết rõ:
-•	Hệ thống đã nhận và xử lý yêu cầu hay chưa.
-•	Mã nguồn thay đổi có ảnh hưởng đến tài liệu hay không.
-•	Tài liệu nào đang bị lỗi thời.
-•	AI đề xuất thay đổi tài liệu như thế nào.
-•	Thay đổi đó dựa trên bằng chứng nào từ mã nguồn.
-•	Tài liệu đang ở trạng thái nào trong quy trình kiểm duyệt.
-•	Ai đã thực hiện hoặc phê duyệt thay đổi.
+ •	Hệ thống đã nhận và xử lý yêu cầu hay chưa.
+ •	Mã nguồn thay đổi có ảnh hưởng đến tài liệu hay không.
+ •	Tài liệu nào đang bị lỗi thời.
+ •	AI đề xuất thay đổi tài liệu như thế nào.
+ •	Thay đổi đó dựa trên bằng chứng nào từ mã nguồn.
+ •	Tài liệu đang ở trạng thái nào trong quy trình kiểm duyệt.
+ •	Ai đã thực hiện hoặc phê duyệt thay đổi.
 # 2. Phản hồi khi người dùng kết nối GitHub
 Khi Developer kết nối tài khoản GitHub, hệ thống thực hiện xác thực và yêu cầu quyền truy cập repository.
 Sau khi kết nối thành công, hệ thống phản hồi bằng cách hiển thị:
